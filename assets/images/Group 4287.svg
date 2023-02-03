@@ -1,0 +1,16 @@
+<svg id="Group_4287" data-name="Group 4287" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="136.336" height="123.271" viewBox="0 0 136.336 123.271">
+  <defs>
+    <linearGradient id="linear-gradient" x2="1.019" y2="0.948" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3bd4f8"/>
+      <stop offset="1" stop-color="#46ffcd"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x2="0.98" y2="0.833" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2cbad0"/>
+      <stop offset="1" stop-color="#1dc49e"/>
+    </linearGradient>
+  </defs>
+  <path id="Path_4168" data-name="Path 4168" d="M-12364.77-14986.869c3.055,3.42-35.252-76.256-35.252-76.256l-22.17,47.377a122.878,122.878,0,0,1,14.768,5.16c-.016.045,7.4-15.555,7.4-15.555l10.75,23.979S-12367.824-14990.287-12364.77-14986.869Z" transform="translate(12479.795 15063.125)" fill="#ff6c00"/>
+  <path id="Path_4169" data-name="Path 4169" d="M-12123.646-14725.052l-20.219,45.082h-18.34l24.383-52.8Z" transform="translate(12185.954 14799.98)" fill="#ff6c00"/>
+  <path id="Path_4170" data-name="Path 4170" d="M-12351.658-14813.5s-40.852-40.047-120.641-47.1c-.492.779,67.553,9.6,125.182,58.014C-12346.348-14803.139-12351.658-14813.5-12351.658-14813.5Z" transform="translate(12472.434 14901.799)" fill="url(#linear-gradient)"/>
+  <path id="Path_4172" data-name="Path 4172" d="M-12400.867-14802.648s-54.861-44.877-125.211-56.535c-.613.5,71.6,20.006,126.252,71.707.262.629,10.08,10.076,10.08,10.076Z" transform="translate(12526.082 14900.672)" fill="url(#linear-gradient-2)"/>
+</svg>
